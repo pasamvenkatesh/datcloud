@@ -1,0 +1,4 @@
+*.log
+*.php
+!index.php
+!*.txt
